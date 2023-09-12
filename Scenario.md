@@ -1,39 +1,29 @@
 # Digital Forensics Assignment: Oil Company Case
+## Scenario
 
-## Overview
+### Background
 
-This repository contains a comprehensive digital forensics investigation report involving a suspected leak of proprietary information within an oil company. The goal is to aid in understanding the alleged violation of company policy.
+An oil company's senior management suspects that John Smith, one of their mechanical engineers, has allegedly taken information clearly identified as proprietary. The suspicion has led to an internal investigation approved by both the senior management and the legal office.
 
-- [Scenario](Scenario.md) - Background and context of the investigation.
+### Company Policies
 
-## Objectives
+All employees are required to sign nondisclosure agreements (NDAs) and acceptable use policies (AUPs) before gaining access to company information. John Smith was not authorized to access the proprietary information, making this a potential violation of company policies.
 
-1. Develop a comprehensive investigative plan of action.
-2. Identify and analyze digital evidence pertaining to the case.
-3. Provide recommendations and next steps for legal actions.
+### The Request
 
-## Methodology
+The company's legal office has officially requested a digital forensics investigation to gather digital evidence of this potential policy violation.
 
-1. Gather initial facts and approvals from senior management and legal office.
-2. Identify sources and types of digital evidence.
-3. Conduct investigation following the outlined plan.
-4. Document all steps and findings.
+### Your Role
 
-## Report Components
+As a member of the investigative team, you are tasked with developing an investigative plan of action to collect digital evidence and provide recommendations for the case.
 
-- Investigation Plan
-- Summary of Findings
-- Legal Recommendations
-- Acknowledgments and Sources
+---
 
-## How to Use This Repository
+## Objective
 
-1. Begin by reviewing the [Scenario](Scenario.md) to understand the context of the investigation.
-2. Follow the investigation plan to learn about the steps taken during the investigation.
-3. Refer to the Summary of Findings for insights into the alleged violation.
-4. For details about the recommendations and next steps, consult the Legal Recommendations section.
+The main objective of this investigation is to ascertain whether John Smith took proprietary information without authorization, thus violating the company's policies, and to gather admissible evidence for any potential legal proceedings.
 
-## Acknowledgements
+---
 
-This project adheres to laws and regulations surrounding digital forensics. All procedures followed are compliant with standard practices.
+For details on the investigation plan and findings, refer to the [main README](README.md).
 
